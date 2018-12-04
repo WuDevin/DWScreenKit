@@ -1,0 +1,6 @@
+framework module DWScreenKit {
+  umbrella header "DWScreenKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
